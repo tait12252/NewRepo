@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a041d1344ca944a4ba7057b856ce8a2e, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "You are trap with a psychopath in a room with absolute silent by the
+    serial killer.\r\nOn the way home from work, you got kidnap by a serial killer
+    that you have heard from the rumor recently.\r\nWhen you get to the location,
+    there is a man with you in a room but the serial killer tell you that he is a
+    psychopath. \r\nThe serial killer tells you guys to kill each other with the
+    weapons on the table.\r\n\r\nYou have 2 choices to take:\r\n\r\n1. Defend yourself
+    from the psychopath by killing him.\r\n\r\n2. Kill the serial killer himself.\r\n\r\nWhat
+    would you do?"
+  nextStates:
+  - {fileID: 11400000, guid: baa9f3ad8601ed74394b17f0404b0f14, type: 2}
+  - {fileID: 11400000, guid: 339155f15fae932469e516fc84785f5b, type: 2}
